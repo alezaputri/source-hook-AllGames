@@ -20,7 +20,7 @@ else
 echo -e "\n$red Ndk Kit Android Not Found...! \n"
 sleep 3
 echo -e "\n$green Waiting Download Ndk Android kit...\n$white"
-wget https://dl.google.com/android/repository/android-ndk-r27c-linux.zip
+wget https://github.com/alezaputri/source-hook-AllGames/raw/version-1/android-ndk-r27c-linux.zip
 sleep 3
 echo -e "\n$yellow Unzip File Ndk Wait.... \n"
 sleep 5
